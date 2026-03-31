@@ -1,13 +1,18 @@
-title: Project title in sentence case
+title: Neon ribbon composer
 hero_image: images/banner.png
-description: A short description of the project
+description: Build a glowing p5 sketch that paints animated neon ribbons across the screen.
 listed: false
 pdf: false
 steps:
   - title: What you will make
-  - title: Step title
+  - title: Set the stage
     completion:
-      - engaged      
+      - engaged
+  - title: Start a ribbon
+  - title: Draw the ribbon
+  - title: Make it glow
+  - title: Add movement
+  - title: Compose with controls
   - title: Challenge
     challenge: true
     completion:

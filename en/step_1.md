@@ -1,45 +1,14 @@
 ## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
-
---- print-only ---
-
-![ALT TEXT](images/IMAGE.png)
-
---- /print-only ---
+Create an interactive neon ribbon painter with p5.js. As you drag the mouse, your sketch will compose glowing trails that shimmer across the screen, and you will be able to switch colour palettes and ribbon styles with the keyboard.
 
 --- no-print ---
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
-
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
+[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/neon-ribbon-composer)
 
 --- /no-print ---
 
 ### You will need:
-- a
-- b
-- c
+- a computer with access to the Raspberry Pi Code Editor
+- a mouse or trackpad for drawing ribbons
+- curiosity about colour, motion, and generative art
