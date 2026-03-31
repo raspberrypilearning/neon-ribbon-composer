@@ -1,0 +1,4 @@
+name: "Neon Ribbon Composer Starter"
+identifier: "neon-ribbon-composer-starter"
+type: 'html'
+build: true
